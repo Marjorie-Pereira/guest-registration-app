@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <Header title="AP2 - Entreveiro" />
+      <Header title="AP2 - Entreveiro" img="https://i.pravatar.cc/300" />
       <main className='p-4'>
         <section className='text-start p-4'>
           <Saudacoes nome="Mundo" />
