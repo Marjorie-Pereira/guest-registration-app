@@ -2,7 +2,7 @@
   "name": "ap2-daoc",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Marjorie-Pereira.github.io/guest-registration-app/",
+  "homepage": "https://marjorie-pereira.github.io/guest-registration-app/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
